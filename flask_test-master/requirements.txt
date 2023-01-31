@@ -1,4 +1,0 @@
-numpy
-Flask~=2.2.2
-gunicorn
-scikit-learn
